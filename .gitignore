@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+## react app ##
+src/frunt-store/node_modules/
